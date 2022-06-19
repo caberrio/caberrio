@@ -2,6 +2,7 @@
 
 <img src="https://projecteuler.net/profile/caberrio.png">
 
+<img src="https://github-readme-stats.vercel.app/api?username=caberrio&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark&hide=stars">
 <!--
 **caberrio/caberrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
