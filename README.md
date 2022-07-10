@@ -1,6 +1,6 @@
 ## About me
 
-I'm Carlos Díaz, Frontend developer from Colombia based in Madrid Spain.
+I'm Carlos Díaz, Frontend developer from Colombia currently living in Madrid, Spain.
 I like:
 
 - Watching movies and series.
