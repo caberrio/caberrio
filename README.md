@@ -46,19 +46,6 @@ I like:
 <a href="https://nodejs.org/en/" title="Nodejs"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/nodejs.svg" height="50" width="50"/></a>
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" height="50" width="50"/></a>
 
-**Learning / planning on learning:**
-
-<a href="https://graphql.org/" title="GraphQL"><img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" height="50" width="50"/></a>
-<a href="https://tailwindcss.com/" title="Tailwind css"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" height="50" width="50"/></a>
-<a href="https://vuejs.org/" title="Vue"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/vuejs.svg" height="50" width="50"/></a>
-<a href="https://svelte.dev/" title="Svelte"><img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" height="50" width="50"/></a>
-<a href="https://www.docker.com/" title="Docker"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="50" width="50"/></a>
-<a href="https://www.ruby-lang.org/en/" title="Ruby"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/ruby.svg" height="50" width="50"/></a>
-<a href="https://rubyonrails.org/" title="Rails"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/rails.svg" height="50" width="50"/></a>
-<a href="https://www.java.com/en/" title="Java"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg" height="50" width="50"/></a>
-<a href="https://spring.io/" title="Spring"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/spring.svg" height="50" width="50"/></a>
-<a href="https://flask.palletsprojects.com/en/2.1.x/" title="Flask"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/flask.svg" height="50" width="50"/></a>
-
 ## Badges
 
 <img src="https://github-readme-stats.vercel.app/api?username=caberrio&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark&hide=stars">
